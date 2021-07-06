@@ -1,0 +1,112 @@
+.kings {
+    color: rgb(255, 72, 0);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.first-sec {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.first-sec2 {
+    padding: 60px 0px 40px 40px;
+}
+
+h1 {
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+
+p {
+    font-size: 25px;
+    color: gray;
+    padding-bottom: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(255, 173, 134));
+    padding: 10px 20px;
+    color: white;
+    font-weight: 400px;
+    border-radius: 20px;
+    box-shadow: 5px 7px 13px rgba(255, 99, 71, 0.671);
+}
+
+.about-us {
+    background-image: url(image/shapes/7.png);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-sec {
+    width: 50%;
+}
+
+.about-sec h1 {
+    text-align: center;
+}
+
+.about-sec p {
+    text-align: justify;
+    justify-content: center;
+}
+
+.picture {
+    border-radius: 5px;
+}
+
+.dean-salad-peas {
+    border-radius: 40px;
+}
+
+#my-recipies {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    width: 33%;
+    padding: 1rem;
+    margin-right: 2%;
+    margin-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.kabab {
+    color: white;
+    margin-left: 30px;
+}
+
+.end {
+    margin-top: 5%;
+    margin-bottom: 0%;
+    padding-top: 40px;
+    text-align: center;
+    background: black;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: salmon;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
